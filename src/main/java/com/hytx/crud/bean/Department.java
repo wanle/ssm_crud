@@ -1,5 +1,11 @@
 package com.hytx.crud.bean;
-
+/**
+ * 
+ * @ClassName:     Department   
+ * @Description:   部门类  
+ * @author:        wangle
+ * @date:          2019年3月31日 下午10:46:56
+ */
 public class Department {
     private Integer deptId;
 
